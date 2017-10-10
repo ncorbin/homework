@@ -1,4 +1,4 @@
-# Nicole Corbin – UX Problem & Solution
+# UX Problem & Solution
 
 ### Come up with a new solution to capture ratings / reviews of a doctor from their patients.
 
